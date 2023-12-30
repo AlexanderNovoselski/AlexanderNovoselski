@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate Web developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw3q9fF4iW9eA86nB-QpRoeP&ust=1704057203376000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjfofeJuIMDFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw3q9fF4iW9eA86nB-QpRoeP&ust=1704057203376000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjfofeJuIMDFQAAAAAdAAAAABAD](https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952wss1y51qaobdo3mw68tmtx5gwo8k0e180agkxd9w&ep=v1_gifs_search&rid=200w.gif&ct=g)">
 
 
 - 🌱 I’m currently learning **React**
