@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952wss1y51qaobdo3mw68tmtx5gwo8k0e180agkxd9w&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working as a **Full Stack Software Developer** for Global Payments
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlexanderNovoselski](https://github.com/AlexanderNovoselski)
 
